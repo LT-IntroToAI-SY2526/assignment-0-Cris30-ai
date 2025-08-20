@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Cristian Jacome  
+**Date:**8/20/2025
 
 ---
 
@@ -9,16 +9,16 @@
 All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
+Git is a Verison Control System(VCS) while GitHub is a platform for people to collaborate on. GitHub facilitates Git and its users.  
 
-[Your answer here]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing is made when a person wants to highlight a change in the project to other people. Pushing is when you add the changes made to a personal repository. These steps are important because it informs your team on the work you did a gives them a way to transport the code to their own repository. 
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A Repository is the location where your work is being created. A user's repositories can contain READMEs which is helpful for other users to understand the though process behind the work.
 
 ---
 
@@ -26,7 +26,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/Cris30-ai/Cris30-ai
 
 ---
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+In general I am very excitied to learn how to build my own AI systems because I believe that my generation is living in the dawn of AI and I want to be able to succeed in this sector. I am also very interested in applying what I learn about AI into solving a problem in the financial sector.
 
 ---
 
