@@ -1,4 +1,5 @@
-# Assignment 0 Rubric
+# HI
+ Assignment 0 Rubric
 **Total Points: 10**
 
 ---
